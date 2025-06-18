@@ -67,7 +67,7 @@ Me chamo Ronan Martins, tenho 22 anos e sou natural de Minas Gerais. Atualmente,
 
 ### 📊 Estatísticas
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; ">
   <img 
     alt="GitHub Stats" 
     height="200" 
