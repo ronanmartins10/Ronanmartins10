@@ -67,16 +67,17 @@ Me chamo Ronan Martins, tenho 22 anos e sou natural de Minas Gerais. Atualmente,
 
 ### 📊 Estatísticas
 
-<div style="display: flex; flex-wrap: wrap; ">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <img 
-    alt="GitHub Stats" 
-    height="200" 
     src="https://github-readme-stats.vercel.app/api?username=ronanmartins10&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="GitHub Stats" 
+    style="max-width: 100%; width: 45%; min-width: 280px;" 
   />
+  
   <img
-    alt="Github Stats"
-    height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronanmartins10&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
+    alt="Github Stats"
+    style="max-width: 100%; width: 45%; min-width: 280px;" 
   />
 </div>
 
