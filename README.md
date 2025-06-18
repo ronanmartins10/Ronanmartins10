@@ -80,7 +80,7 @@ Me chamo Ronan Martins, tenho 22 anos e sou natural de Minas Gerais. Atualmente,
     align="left"
     alt="Github Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronanmartins10&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronanmartins10&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
     />
         
 </p>
