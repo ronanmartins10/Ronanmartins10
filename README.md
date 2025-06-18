@@ -92,9 +92,9 @@ Me chamo Ronan Martins, tenho 22 anos e sou natural de Minas Gerais. Atualmente,
 
 <div> 
   <a href="https://instagram.com/ronanmoliveiraa" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&target=blank" />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
-  <a href="mailto:ronanmartinsoliveira10@gmail.com">
+  <a href="mailto:ronanmartinsoliveira10@gmail.com" target="_blank" >
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&target=blank" />
   </a>
   <a href="https://www.linkedin.com/in/ronan-martins/" target="_blank">
