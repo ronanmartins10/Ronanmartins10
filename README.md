@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Ronan Martins, tenho 22 anos e sou natural de Minas Gerais. Atualmente, estou cursando Engenharia de Software na Unileste. 
+Me chamo Ronan Martins de Oliveira, tenho 22 anos e sou natural de Minas Gerais. Atualmente, estou cursando Engenharia de Software na Unileste.Tenho experiência com HTML, CSS, JavaScript e frameworks modernos como Angular. Também possuo conhecimentos em Git, GitHub e boas práticas de versionamento de código. Estou sempre buscando aprender algo novo e evoluir como desenvolvedor.
+
+Este repositório é onde compartilho projetos pessoais, estudos e contribuições. Fique à vontade para explorar, dar feedbacks ou entrar em contato!
 
 ---
 
